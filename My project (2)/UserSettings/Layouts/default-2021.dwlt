@@ -832,12 +832,13 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets
+    - Packages/com.unity.ugui
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
+  - Packages/com.unity.ugui
   m_LastFoldersGridSize: -1
   m_LastProjectPath: D:\Unity\GitHub_Unity\2\Game_test\My project (2)
   m_LockTracker:
